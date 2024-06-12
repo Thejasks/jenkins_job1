@@ -23,6 +23,7 @@ dependencies {
     implementation 'com.codevineyard:hello-world:1.0.1!!'
 
     // Dependency from local jar
+
     implementation ':simple-jar'
 }
 
